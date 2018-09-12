@@ -1,0 +1,4 @@
+﻿  gradebook.cpp
+c:\users\emmanuel klutse\source\repos\gradebook\gradebook\gradebook.cpp(68): warning C4129: 'T': unrecognized character escape sequence
+c:\users\emmanuel klutse\source\repos\gradebook\gradebook\gradebook.cpp(233): warning C4129: 'T': unrecognized character escape sequence
+  gradebook.vcxproj -> C:\Users\Emmanuel Klutse\source\repos\gradebook\Debug\gradebook.exe
